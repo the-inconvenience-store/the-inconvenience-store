@@ -15,10 +15,11 @@
          ⠀⢸⣿⣷⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣾⣿⠀⣿⣿⣿⣿⣿⢸⣿⡇⠀ |___/\__\___/|_|  \___|                                             
          ⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠉⠉⠉⠉⠉⠈⠉⠁⠀                                                                     
 ```
-## software engineer
+## cart
 
 c#, rust, typescript, python
-react, next.js
+
+react, next.js, react native, expo
 
 ## currently managing:
 
