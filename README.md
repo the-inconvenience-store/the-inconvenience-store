@@ -15,15 +15,6 @@
          ⠀⢸⣿⣷⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣾⣿⠀⣿⣿⣿⣿⣿⢸⣿⡇⠀ |___/\__\___/|_|  \___|                                             
          ⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠉⠉⠉⠉⠉⠈⠉⠁⠀                                                                     
 ```
-## cart
-
-c#, rust, typescript, python
-
-react, next.js, react native, expo
-
-## currently managing:
-
-### **[expo-roomplan](https://github.com/fordat/expo-roomplan)**
-
-### **[@the-inconvenience-store/thecommunityupdate](https://github.com/the-inconvenience-store/thecommunityupdate)**
-
+<!--
+hello there you cheeky monkey
+-->
